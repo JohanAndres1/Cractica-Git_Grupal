@@ -5,7 +5,7 @@ Ingredientes Para La pizza
 Ingredientes para la Masa
 
 250 gramos de Harina
-5 gramos de levadura deshidratada 1 taza de Agua (240 mililitros)
+6 gramos de levadura deshidratada 1 taza de Agua (240 mililitros)
 1 pizca de Sal
 1 cucharadita de Aceite
 
@@ -19,12 +19,13 @@ Cubierta
 50 gr de queso parmesano rallado
 1 pizca de Sal o al gusto
 1 pizca de Pimienta o al gusto
-Agregar ingredientes
 
+Agregar Ingredientes 
 - darle forma redonda y uniforme a la masa
 - aplicar y exparcir pasta de tomate sobre la masa
-- hechar el queso rallado
+- hechar el queso rallado al gusto
 - poner los ingretiente bien repartidos sobre la pizza
+
   HORNEADO
   Para el correcto horneado de una pizza se deben seguir una serie de pequeños pasos que nos llevaran al exito y la crocancia ideal:
   Paso 1: Precalentar el horno a tope 220º o más con calor abajo.
